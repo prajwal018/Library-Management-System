@@ -27,7 +27,9 @@ To install the Library Management System on your system, please follow the steps
 After installing and running the Library Management System, you will be presented with a login screen. Use the following credentials to log in as an administrator:
 
 Username: admin
+
 Password: admin123
+
 You can then perform various tasks, such as adding or removing books, managing members, and generating reports.
 
 # Contributing
